@@ -10,7 +10,7 @@
 
 ## 1. Game Concept
 
-Neon Rush is a 2D endless runner set in a futuristic city filled with neon lights, obstacles and collectibles. The player controls a character running through the city, avoiding obstacles and collecting coins to achieve the highest possible score.
+Street Dasher is a 2D endless runner set in a futuristic city filled with neon lights, obstacles and collectibles. The player controls a character running through the city, avoiding obstacles and collecting coins to achieve the highest possible score.
 
 The character runs automatically, allowing the player to focus on movement and reactions. As the game progresses, the running speed increases, making it more challenging to avoid obstacles and collect rewards.
 
@@ -18,13 +18,13 @@ The main objective is to survive for as long as possible, collect coins and beat
 
 ## 2. Target Audience
 
-Neon Rush is aimed at casual mobile gamers aged 10 and above who enjoy fast-paced games that are easy to learn but become more challenging over time.
+Street Dasher is aimed at casual mobile gamers aged 10 and above who enjoy fast-paced games that are easy to learn but become more challenging over time.
 
 The game is designed for short play sessions, making it suitable for people who want a quick gaming experience on their phone. Simple swipe controls and clear visual feedback will make the game accessible to new players.
 
 ## 3. Target Mobile Platform
 
-The primary target platform for Neon Rush will be Android smartphones. The game will be developed using Unity and C#, with a design focused on touchscreen interaction and portrait orientation.
+The primary target platform for Street Dasher will be Android smartphones. The game will be developed using Unity and C#, with a design focused on touchscreen interaction and portrait orientation.
 
 The interface will use responsive Unity Canvas layouts to accommodate different screen sizes and aspect ratios. Swipe gestures will provide the main gameplay controls, while vibration feedback will be explored to improve player interaction on supported devices.
 
@@ -46,7 +46,7 @@ This gameplay loop is intended to be simple, repeatable and suitable for mobile 
 
 ## 5. Main Features
 
-Neon Rush will aim to include the following features:
+Street Dasher will aim to include the following features:
 
 - **Automatic running:** The character moves forward without requiring continuous input.
 - **Swipe controls:** Players use touchscreen gestures to control movement.
@@ -67,7 +67,7 @@ The following wireframes show the planned layout of the main screens. These are 
 ```text
 +---------------------------+
 |                           |
-|        NEON RUSH          |
+|        Street Dasher      |
 |                           |
 |     [ Character Art ]     |
 |                           |
@@ -94,7 +94,7 @@ The main menu will display the game title, the player's high score and a promine
 |                           |
 |     [ PLAYER CHARACTER ]  |
 |                           |
-|       FUTURISTIC CITY     |
+|             CITY          |
 |          BACKGROUND       |
 +---------------------------+
 ```
@@ -175,7 +175,7 @@ The project will be managed through GitHub Issues or a GitHub Project board. Tas
 | Low | Improve visuals, audio and difficulty balance | More polished game experience |
 
 Progress will be recorded through meaningful Git commits made throughout development. GitHub Issues or the project board will be updated as tasks are started and completed.
-
+(i will be adding more task as i go, aslo to my project board)
 ## 11. Testing Strategy
 
 Testing will take place throughout development rather than only at the end.
@@ -197,7 +197,7 @@ Issues found during testing will be recorded and prioritised before the release 
 
 ## 12. Project Objectives
 
-The objectives for Neon Rush are to:
+The objectives for Street Dasher are to:
 
 1. Develop a playable 2D endless runner using Unity and C#.
 2. Implement a complete gameplay loop with controls, obstacles, scoring and restart functionality.
